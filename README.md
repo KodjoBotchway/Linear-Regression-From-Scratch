@@ -1,2 +1,4 @@
 # Linear_Regression_From_Scratch
-Linear regression from scratch using gradient descent and locally weighted method.
+In these available codes, I wrote the codes for linear regression models using the concepts learnt to write the working procedures for linear regressions from scratch without using any prebuilt packages from python. Only using matplotlib and numpy, the models were made using three different procedures:
+* Gradient Descent
+* Locally Weighted Linear Regression
